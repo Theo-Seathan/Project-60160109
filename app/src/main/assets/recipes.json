@@ -1,0 +1,99 @@
+{
+  "recipes": [
+    {
+      "title": "Cat",
+      "image" : "https://i.pinimg.com/originals/59/54/b4/5954b408c66525ad932faa693a647e3f.jpg",
+      "description": "แมว (ชื่อวิทยาศาสตร์: Felis catus) เป็นสัตว์เลี้ยงลูกด้วยนม อยู่ในตระกูล Felidae ต้นตระกูลมาจากเสือไซบีเรีย (Felis tigris altaica) ซึ่งมีช่วงลำตัวตั้งแต่จมูกถึงปลายหางยาวประมาณ 40 เซนติเมตร แมวที่เลี้ยงตามบ้าน จะมีรูปร่างขนาดเล็ก ขนาดลำตัวยาว ช่วงขาสั้นและจัดอยู่ในกลุ่มของประเภทสัตว์กินเนื้อ มีเขี้ยวและเล็บแหลมคมสามารถหดซ่อนเล็บได้เช่นเดียวกับเสือ สืบสายเลือดมาจากแมวป่าที่มีขนาดใหญ่กว่า ซึ่งลักษณะบางอย่างของแมวยังคงพบเห็นได้ในแมวบ้านปัจจุบัน"
+    },
+
+    {
+      "title": "Dog",
+      "image" : "https://i.ytimg.com/vi/kGD32ITOo7g/maxresdefault.jpg",
+      "description": "หมา หรือคำสุภาพว่า สุนัข (ชื่อวิทยาศาสตร์: Canis lupus familiaris หรือ Canis familiaris) เป็นสัตว์มีเขี้ยวชนิดเชื่องทีถูกคัดเลือกผสมพันธุ์มาเป็นเวลาพันปีจนมีพฤติกรรม การรับรู้ทางประสาทสัมผัส และลักษณะทางกายภาพที่หลากหลาย",
+      "servings": 4,
+      "dietLabel": "Balanced",
+      "ingredientLines" : [ "2 or 3 links of chineses sausage, cut into 1/4 inch slices", "4 cloves garlic, minced", "4 cups cold cooked rice", "2 tablespoons light soy sauce", "1/2 teaspoon salt", "1/4 teaspoon sugar", "1/4 teaspoon white pepper", "To garnish:", "Finely chopped green onion or cilantro" ]
+    },
+
+    {
+      "title": "Bear",
+      "image" : "https://siamblockchain.com/wp-content/uploads/2019/12/brown-bear-1280x720.jpg",
+      "url": "http://www.epicurious.com/recipes/food/views/Five-Spice-Chicken-Wings-109520",
+      "description": "หมี จัดอยู่ในไฟลัมสัตว์มีแกนสันหลัง ชั้นสัตว์เลี้ยงลูกด้วยนม อันดับสัตว์กินเนื้อ จัดอยู่ในวงศ์ Ursidae ออกลูกเป็นตัว ตาและใบหูกลมเล็ก ริมฝีปากยื่นแยกห่างออกจากเหงือก สามารถยืนและเดินด้วยขาหลังได้ ประสาทการดมกลิ่นดีกว่าประสาทตาและหู กินได้ทั้งพืชและสัตว์เป็นอาหาร",
+      "servings": 4,
+      "dietLabel": "Low-Carb",
+      "ingredientLines" : [ "40 chicken wing pieces, or 20 whole chicken wings", "2 tablespoons chinese five-spice powder", "1 tablespoon cayenne pepper", "Kosher salt and freshly ground black pepper", "1/3 to 1/2 cup chopped fresh cilantro leaves", "1/4 cup light or regular sour cream", "1/4 cup mayonnaise", "1/4 cup plain yogurt", "Juice 1/2 lemon (or why not try lime?)" ]
+    },
+
+    {
+      "title": "Rabit",
+      "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Oryctolagus_cuniculus_Rcdo.jpg/375px-Oryctolagus_cuniculus_Rcdo.jpg",
+      "url": "http://www.seriouseats.com/recipes/2009/07/grilling-chinese-style-spare-ribs-recipe.html",
+      "description": "กระต่าย (อังกฤษ: Rabbit) เป็นสัตว์ที่จัดอยู่ในไฟลัมสัตว์มีกระดูกสันหลัง ชั้นสัตว์เลี้ยงลูกด้วยนม อันดับกระต่าย (Lagomorpha) ในวงศ์ Leporidae\n\nกระต่ายแม้จะมีฟันแทะเหมือนกับอันดับสัตว์ฟันแทะ (Rodentia) แต่ถูกจัดออกมาเป็นอันดับต่างหาก เนื่องมีจำนวนฟันที่ไม่เท่ากัน เพราะกระต่ายมีฟันแทะที่ขากรรไกรบน 20 แถว เรียงซ้อนกันแถวละ 20 ซี่ ฟันกรามบนข้างละ 6 ซี่",
+      "servings": 4,
+      "dietLabel": "Medium-Carb",
+      "ingredientLines" : [ "1.0 tbsp clear honey", "1.0 tbsp vinegar (you can use cider, malt or wine)", "100.0ml hoisin sauce", "2.0 tbsp soy sauce", "12 meaty pork ribs", "1.0 tsp chinese five-spice powder" ]
+    },
+
+    {
+      "title": "Crocodile",
+      "image" : "https://hilight.kapook.com/image_fb/39/193465-new-345774.jpg",
+      "url": "http://www.seriouseats.com/recipes/2010/11/seriously-asian-korean-rice-cakes-dok-boki.html",
+      "description": "จระเข้ (อังกฤษ: Crocodile, อีสาน: แข้) เป็นวงศ์ของสัตว์เลื้อยคลานขนาดใหญ่ ใช้ชื่อทางวิทยาศาสตร์ว่า Crocodylidae อยู่ในอันดับจระเข้ (Crocodilia)\n\nมีลักษณะโดยรวมคือ ส่วนปลายของหัวแผ่กว้างหรือเรียวยาวบางตัวปากเป็นรูปตัว v และ u ขากรรไกรยาวและกว้าง เมื่อหุบปากแล้วจะเห็นฟันซี่ที่ 4 ของขากรรไกรล่างเนื่องจากขอบปากบนตรงตำแหน่งนี้เป็นรอยหยักเว้า ส่วนปลายของขากรรไกรล่างข้างซ้ายและข้างขวาเชื่อมต่อกันเป็นพื้นที่แคบ",
+      "servings": 4,
+      "dietLabel": "Low-Fat",
+      "ingredientLines" : [ "6 to 8 fresh long rice cake sticks, or 20 smaller rice cake sticks", "For the sauce:", "3 tablespoons korean chili pepper paste", "3 to 4 tablespoons light soy sauce, depending on saltiness", "1 teaspoon sugar", "1 teaspoon rice vinegar", "Roasted sesame seeds to garnish" ]
+
+    },
+
+    {
+      "title": "Turtle",
+      "image" : "https://www.thairath.co.th/media/dFQROr7oWzulq5FZYjXxta1KPCXeoCvEKj67o2SuG8PPhXXDh5L5x2Vs6JexAEtP1vE.jpg",
+      "url": "http://www.epicurious.com/recipes/member/views/DUMP-CAKE-50059991",
+      "description": "เต่า คือ สัตว์จำพวกหนึ่งในอันดับ Testudines จัดอยู่ในจำพวกสัตว์เลือดเย็น ในชั้นสัตว์เลื้อยคลาน เป็นสัตว์ที่มีวิวัฒนาการมาแล้วกว่า 200 ล้านปี[1] ซึ่งเต่านั้นถือเป็นสัตว์ที่มีอายุยืนมากที่สุดชนิดหนึ่ง โดยเต่าจะมีกระดูกที่แข็งคลุมบริเวณหลังที่เรียกว่า \"กระดอง\" ซึ่งประกอบด้วยแคลเซียมเป็นส่วนใหญ่ ซึ่งจะสามารถหดหัว ขา และหางเข้าในกระดองเพื่อป้องกันตัวได้ ",
+      "servings": 12,
+      "dietLabel": "Vegetarian",
+      "ingredientLines" : [ "1 can (21 oz.) cherry pie filling", "1 can (15 oz.) crushed pineapple", "1 box (about 18 oz.) yellow or white cake mix", "1 stick margarine", "½ sticks butter", "Whipped cream" ]
+    },
+
+    {
+      "title": "Elephan",
+      "image" : "https://www.tcijthai.com/office-tcij/headpicture/3969fcb00499bdecb3c568b98eb67cbc.jpg",
+      "url": "http://www.seriouseats.com/recipes/2008/12/sugar-cookies-recipe-gina-depalma-holidays.html",
+      "description": "ช้าง เป็นสัตว์เลี้ยงลูกด้วยน้ำนมขนาดในวงศ์ Elephantidae ปัจจุบันรับรองว่ามีอยู่ 3 สปีชีส์ คือ ช้างแอฟริกา, ช้างป่าแอฟริกา และช้างเอเชีย วงศ์ Elephantidaeเป็นวงศ์เดียวที่ยังไม่สูญพันธุ์ในอันดับ Proboscidea สมาชิกที่สูญพันธุ์ไปแล้ว เช่น มาสโตดอน (mastodon) วงศ์ Elephantidae ยังมีกลุ่มที่บัดนี้สูญพันธุ์ไปแล้วหลายกลุ่ม รวมทั้งช้างแมมมอธและช้างงาตรง ช้างแอฟริกามีหูขนาดใหญ่กว่าและหลังเว้า ",
+      "servings": 42,
+      "dietLabel": "Low-Sodium",
+      "ingredientLines" : [ "2 1/2 cups self-rising white lily or cake flour", "2 sticks (1 cup) unsalted butter, softened", "1 1/2 cups sugar", "1 large egg, lightly beaten", "1 teaspoon vanilla" ]
+    },
+
+    {
+      "title": "Pavo",
+      "image" : "https://www.matichon.co.th/wp-content/uploads/2016/02/------------------------------------1-16.jpg",
+      "url": "http://www.deliciousdays.com/archives/2006/10/03/land-of-the-dumplings/",
+      "description": "นกยูง เป็นสัตว์ปีกจำพวกไก่ฟ้าขนาดใหญ่ที่สุดในวงศ์เดียวกันนี้ มีจุดเด่นคือ เพศผู้มีขนหางยาวที่มีสีสันสวยงาม ที่เมื่อแผ่ขยายออกเพื่ออวดเพศเมียจะมีความสวยงามเป็นอย่างยิ่ง ที่เรียกว่า \"รำแพน\"",
+      "servings": 10,
+      "dietLabel": "Low-Carb",
+      "ingredientLines" : [ "200-250 g pretzels", "150 ml hot milk", "1 tbsp butter", "30 g bacon, finely chopped", "1 x onion, finely chopped", "2 x eggs", "Fresh parsley, chopped", "Salt", "Freshly ground black pepp", "Nutmeg", "1 tbsp butter for creamed chanterelle mushroom sauce", "1-2 x shallots", "250 g chanterelle mushrooms", "100-200 ml vegetable broth", "100 ml heavy cream", "2 tbsp sherry", "Salt and freshly ground black pepp", "Fresh chives, chopped for decoration" ]
+    },
+
+    {
+      "title": "Koala",
+      "image" : "https://mpics.mgronline.com/pics/Images/562000005251901.JPEG",
+      "url": "http://www.seriouseats.com/recipes/2010/11/cakespy-creamed-candy-corn-recipe.html",
+      "description": "โคอาลา (อังกฤษ: koala) เป็นสัตว์เลี้ยงลูกด้วยนมมีกระเป๋าหน้าท้อง จำพวกพอสซัม (ไม่ใช่หมี) ตัวเมียจะมีกระเป๋าหน้าท้อง สำหรับให้ลูกอ่อนอาศัยอยู่ จากการที่มีลักษณะรูปร่างหน้าตาคล้ายสัตว์ในตระกูลหมี ทำให้ส่วนใหญ่นิยมว่า หมีโคอาลาหรือ หมีต้นไม้",
+      "servings": 6,
+      "dietLabel": "Vegetarian",
+      "ingredientLines" :[ "1 cup cream or half and half", "2 tablespoons butter", "2 tablespoons instant vanilla pudding mix", "1 bag (11 ounces) candy corn" ]
+    },
+
+    {
+      "title": "Penguin",
+      "image" : "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Emperor_Penguin_Manchot_empereur.jpg/250px-Emperor_Penguin_Manchot_empereur.jpg",
+      "url": "http://www.marthastewart.com/314096/buttermilk-creams-with-strawberries",
+      "description": "เพนกวินมีถิ่นอาศัยอยู่บริเวณซีกโลกทางใต้หรือขั้วโลกใต้ เป็นนกที่บินไม่ได้ เนื่องจากมีโมเลกุลกระดูกที่หนาแน่นผิดจากนกทั่วไป[3] มีลักษณะเด่นคือ มีขนสีดำที่ด้านหลัง และขนสีขาวที่ด้านหน้าท้อง ซึ่งช่วยป้องกันเพนกวินจากสัตว์นักล่าต่าง ๆ เวลาว่ายน้ำ ",
+      "servings": 8,
+      "dietLabel": "Low-Sodium",
+      "ingredientLines" : [ "1 1/4 teaspoons unflavored gelatin (from a 1/4-ounce envelope)", "3/4 cup sugar", "1 cup low-fat buttermilk", "1 1/2 cups heavy cream", "1 pound strawberries, hulled and quartered", "1 teaspoon fresh lemon juice" ]
+    }
+  ]
+}
